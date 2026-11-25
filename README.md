@@ -37,10 +37,8 @@ This project focuses on analyzing BMW sales data to identify trends and patterns
 
 ## Project Files
 
-| File | Description |
-|---|---|
-| `BMW_analysis.xlsx` | Excel workbook containing cleaned data, pivot table analysis, insights, and the interactive dashboard. |
-| `bmw_dashboard.png` | Dashboard preview image. |
+- [BMW_analysis.xlsx](BMW_analysis.xlsx) – Excel workbook containing cleaned data, pivot table analysis, key insights, and the interactive dashboard.
+- [bmw_dashboard.png](bmw_dashboard.png) – Dashboard preview image.
 
 ## Dataset
 
